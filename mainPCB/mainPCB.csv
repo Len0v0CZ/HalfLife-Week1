@@ -1,0 +1,4 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"A1","1","RaspberryPi_Pico","","","","","${EXCLUDE_FROM_POS_FILES}","Module:RaspberryPi_Pico_Common_Unspecified","https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf"
+"SW1","1","RotaryEncoder_Switch","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles",""
+"SW2,SW3,SW4","3","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_Keyboard:SW_Cherry_MX_1.00u_Plate",""
