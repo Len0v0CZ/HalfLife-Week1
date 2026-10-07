@@ -1,0 +1,6 @@
+Item, Part                 , Description         , Quantity
+   1, Custom PCB           , PCB for the project , 1
+   2, Cherry MX Switch     , Mechanical switch   , 3
+   3, Rotary Encoder       , Rotary encoder      , 1
+   4, Raspberry Pi Pico    , microcontroller     , 1
+   5, 3D Printed Case Parts, Enclosure components, 1 set
