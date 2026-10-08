@@ -124,6 +124,9 @@ I started by taking measurements of my base, so i know how big the lid needs to 
 
 this is the plain lid, tommorow i will work on decorating it
 
+![combined](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kH6ziJEaMe9t9W8X0J1zLBPEueoZX2RM/ebee5b7a31c7b85fe8f497933886ca6db6aebc852d3f4755699ab61d480d59c7.png)
+Last picture, this time combined both pieces into how may the final case look like
+
 ### TL:DR
 * CAD designing bottom **case** with text and **half life logo**
 * started designing the lid, *plain* for now, will add more tomorrow
