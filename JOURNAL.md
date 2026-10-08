@@ -72,3 +72,7 @@ Okay, the space wasnt as big of an issue as i thought it would be, but it still 
 here is the finished PCB view, and the next image is the 3D view with rotary encoder 3D model.
 
 ![3D view](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/kH6ziJEaMe9t9W8X0J1zLBPEueoZX2RM/15623268d085ac0246efcaabf5fc8caf50ff0bf703609071a75f22913d1ad481.png)
+
+### TL:DR
+* **fixed** PCB design and 3D view
+* retraced rotary encoder
