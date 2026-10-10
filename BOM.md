@@ -16,7 +16,7 @@
 | [Rotary encoder](https://rpishop.cz/enkodery/1329-rotacni-enkoder-ky-040-s-tlacitkem.html) | Volume control | 1 | $2.00 | $2.00 | [Rpishop](https://rpishop.cz/enkodery/1329-rotacni-enkoder-ky-040-s-tlacitkem.html) |
 | [PCB](https://cart.jlcpcb.com/quote?stencilLayer=1&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791642504504&up_spm=Jlcpcb.Loginpage.1003) | the main board | 1 | $4.00 | $4.00 | [JLPCB](https://cart.jlcpcb.com/quote?stencilLayer=1&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010&spm=Jlcpcb.Instantquote.1008&_t=1791642504504&up_spm=Jlcpcb.Loginpage.1003) |
 | **Parts subtotal** | — | — | — | **$11.00** | — |
-| **Tax & shipping** | — | — | — | **$11.77** | — |
-| **Total** | — | — | — | **$22.77** | — |
+| **Tax & shipping** | — | — | — | **$16.77** | — |
+| **Total** | — | — | — | **$27.77** | — |
 
-$7.23 left of the tier's funding.
+$2.23 left of the tier's funding.
